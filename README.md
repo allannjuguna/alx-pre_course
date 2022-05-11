@@ -1,6 +1,6 @@
-<h3 align="center">ALX Pre-Course</h3>
+<h3 align="center">Project Name</h3>
 <p align="center">
-	<samp>Software Engineering Course.</samp>
+	<samp>Simple ...</samp>
 	<br/>
 	<a href="https://github/allannjuguna"><strong>Explore more of my work »</strong> </a>
 	<br/>
@@ -10,13 +10,11 @@
 
 ## Techstack
 - Bash
-- C
-- Js
 
 <br/>
 
 ## About
-My progress in the ALX program
+I created this project as a fun side project that ...
 
 <br/>
 
