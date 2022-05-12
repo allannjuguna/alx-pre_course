@@ -1,6 +1,6 @@
-<h3 align="center">Project Name</h3>
+<h3 align="center">Alx </h3>
 <p align="center">
-	<samp>Simple ...</samp>
+	<samp>Pre-course </samp>
 	<br/>
 	<a href="https://github/allannjuguna"><strong>Explore more of my work »</strong> </a>
 	<br/>
